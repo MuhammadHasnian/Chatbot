@@ -6,6 +6,9 @@ connection = sqlite3.connect("chatbot_memory.db")
 cursor = connection.cursor()
 
 thread_ids = cursor.execute("SELECT distinct thread_id FROM checkpoints")
+print(thread_ids)
+readable_thread_ids = thread_ids.fetchall()
+print(type(readable_thread_ids))
 
 # Convert data into readable form.
 conn = sqlite3.connect("chatbot_memory.db",check_same_thread=False)
