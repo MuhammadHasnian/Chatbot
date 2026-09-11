@@ -1,0 +1,6 @@
+venv/
+venv
+.env
+chatbot_memory.db-shm
+chatbot_memory.db-wal
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
