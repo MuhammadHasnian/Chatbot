@@ -35,6 +35,7 @@ Chat history is stored using SQLite and can be loaded through previous chat sess
 Project Demo
 ![AI Chatbot](https://github.com/MuhammadHasnian/Chatbot/blob/master/initial_view.png)
 ![AI Chatbot](https://github.com/MuhammadHasnian/Chatbot/blob/master/Screenshot%20from%202026-09-12%2013-38-39.png)
+![AI Chatbot](https://github.com/MuhammadHasnian/Chatbot/blob/master/tavily_search_demo.png)
 
 Author
 
