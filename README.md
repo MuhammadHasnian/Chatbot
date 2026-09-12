@@ -33,7 +33,7 @@ When the user explicitly asks for today's date, the chatbot uses its date functi
 Chat history is stored using SQLite and can be loaded through previous chat sessions.
 
 Project Demo
-![AI Chatbot](screenshots/https://github.com/MuhammadHasnian/Chatbot/blob/master/initial_view.png)
+![AI Chatbot](screenshots/view.png)
 
 Author
 
